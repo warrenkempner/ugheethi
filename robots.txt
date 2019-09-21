@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisaitohc.swift.moe/sitemap.xml
